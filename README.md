@@ -1,41 +1,47 @@
-Secura
+SECURA
 
 Project Name
-Secura
+SECURA
 
 Project Idea
-Secura is a smart security lock designed for motorcycles and bicycles.
+SECURA is a smart anti-theft lock designed for motorcycles and bicycles.
 
-The product combines physical protection with useful smart features such as fingerprint access, mobile app control, motion alarm, GPS tracking, and multiple unlocking methods.
+The product combines physical protection with smart features such as fingerprint access, PIN code, backup key, mobile app control, motion alarm and GPS tracking.
 
-The main goal is to provide motorcycle and bicycle users with a practical, modern, and reliable way to protect their vehicles.
+The main goal is to provide motorcycle and bicycle owners with a practical and modern security solution.
 
 Team Members
 Habiba
 Alaa
 Marvina
 Saif
-Gergis
+Girgis
 
 Work Plan
 Market Research
 Golden Circle
 Business Model Canvas
-STP Analysis
 Market Analysis
+Competitor Analysis
 SWOT Analysis
 PEST Analysis
-SOSTAC Model
+STP Analysis
 Platform Selection
-Marketing Strategy
+SOSTAC Model
+Strategy Definition
 Content Planning
-Campaign Planning
+Marketing Campaign
 Final Presentation
 
 Roles & Responsibilities
 
 Habiba
 Golden Circle
+Market Analysis
+SWOT Analysis
+Competitor Analysis
+Product Analysis
+PEST Analysis
 
 Alaa
 Business Model Canvas
@@ -47,24 +53,21 @@ Saif
 STP
 Chosen Platforms
 
-Gergis
-Market Analysis
-SWOT Analysis
-PEST Analysis
+Girgis
 SOSTAC Model
 Strategy Definition
 
 Target Market
-Motorcycle and bicycle users
+Motorcycle and bicycle owners
 Delivery riders
-Food delivery services
-Shipping and delivery companies
+Food delivery companies
+Shipping and logistics companies
 
 Customer Needs
-Theft protection
-Easy access
-GPS tracking
-Mobile alerts
+Theft Protection
+Easy Access
+GPS Tracking
+Mobile Alerts
 Convenience
 
 Chosen Platforms
@@ -77,7 +80,7 @@ Reach
 Impressions
 Engagement Rate
 Video Views
-Click Through Rate (CTR)
+Click Through Rate
 Leads
 Conversion Rate
 Cost Per Lead
@@ -87,10 +90,26 @@ Instructor
 Youssef Abdelsabour
 
 Project Files
-Google Drive: 
+
+Project Presentation
+https://github.com/SmartLock-DEPI/secura/blob/main/SECURA11.pptx
+
+Google Drive
+https://drive.google.com/drive/folders/1XHS_DwIk9qx4sWIS-setxhxoG5qRQkV3?usp=sharing
+
+Social Media Links
+
+Instagram
+https://www.instagram.com/securasmartlock?obrf=MXY3Y3Awd3d6azQ5Yw==
+
+Facebook
+https://www.facebook.com/share/1EtiCA1pnB/
 
 Project Status
 In Progress
 
 Track
 Digital Marketing Specialist
+
+Project Type
+Capstone Project
