@@ -96,6 +96,7 @@ https://github.com/SmartLock-DEPI/secura/blob/main/SECURA11.pptx
 
 Google Drive
 https://drive.google.com/drive/folders/1XHS_DwIk9qx4sWIS-setxhxoG5qRQkV3?usp=sharing
+https://drive.google.com/drive/folders/1lewd19tOWTfh-2wxp1gTaHVV96glJvJc?usp=sharing
 
 Social Media Links
 
